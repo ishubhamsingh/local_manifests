@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/SnapdragonCamera" remote="github" name="BrokenROM/packages_apps_SnapdragonCamera" revision="m6.0.1" />
+  <project name="ishubhamsingh/device_motorola_osprey" path="device/motorola/osprey" remote="github" revision="broken" />
+  <project name="ishubhamsingh/device_motorola_msm8916-common" path="device/motorola/msm8916-common" remote="github" revision="broken" />
+  <project name="CyanogenMod/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_external_bson" path="external/bson" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
+  <project path="vendor/qcom/opensource/dataservices" name="CyanogenMod/android_vendor_qcom_opensource_dataservices" remote="github" revision="cm-13.0" />
+</manifest>
+
